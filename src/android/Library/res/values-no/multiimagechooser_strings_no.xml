@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multi_app_name">MultiImageChooser</string>
+    <string name="free_version_label">Gratis versjon - Bilder igjen: %d</string>
+    <string name="error_database">Det oppsto en feil når bildedatabasen skulle åpnes. Rapporter problemet.</string>
+    <string name="requesting_thumbnails">Laster inn bilder, vent</string>
+    <string name="multi_image_picker_processing_images_title">Behandler bilder</string>
+    <string name="multi_image_picker_processing_images_message">Dette kan ta et øyeblikk</string>
+    <string name="discard" translatable="false">Avbryt</string>
+    <string name="done" translatable="false">OK</string>
+    <string name="max_count_photos_title">Maksimum %d Bilder</string>
+    <string name="max_count_photos_message">Du kan bare velge %d bilder om gangen.</string>
+</resources>
