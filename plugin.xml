@@ -144,7 +144,7 @@
         <resource-file src="src/android/Library/res/values/multiimagechooser_strings_en.xml" target="res/values/multiimagechooser_strings_en.xml"/>
         <resource-file src="src/android/Library/res/values/themes.xml" target="res/values/themes.xml"/>
 
-        <resource-file src="src/android/Library/res/values-da/multiimagechooser_strings_da.xml" target="res/values-pt/multiimagechooser_strings_da.xml"/>
+        <resource-file src="src/android/Library/res/values-da/multiimagechooser_strings_da.xml" target="res/values-da/multiimagechooser_strings_da.xml"/>
         <resource-file src="src/android/Library/res/values-de/multiimagechooser_strings_de.xml" target="res/values-de/multiimagechooser_strings_de.xml"/>
         <resource-file src="src/android/Library/res/values-es/multiimagechooser_strings_es.xml" target="res/values-es/multiimagechooser_strings_es.xml"/>
         <resource-file src="src/android/Library/res/values-fr/multiimagechooser_strings_fr.xml" target="res/values-fr/multiimagechooser_strings_fr.xml"/>
@@ -152,10 +152,10 @@
         <resource-file src="src/android/Library/res/values-it/multiimagechooser_strings_it.xml" target="res/values-it/multiimagechooser_strings_it.xml"/>
         <resource-file src="src/android/Library/res/values-ja/multiimagechooser_strings_ja.xml" target="res/values-ja/multiimagechooser_strings_ja.xml"/>
         <resource-file src="src/android/Library/res/values-ko/multiimagechooser_strings_ko.xml" target="res/values-ko/multiimagechooser_strings_ko.xml"/>
-        <resource-file src="src/android/Library/res/values-nl/multiimagechooser_strings_nl.xml" target="res/values-pt/multiimagechooser_strings_nl.xml"/>
-        <resource-file src="src/android/Library/res/values-no/multiimagechooser_strings_no.xml" target="res/values-pt/multiimagechooser_strings_no.xml"/>
+        <resource-file src="src/android/Library/res/values-nl/multiimagechooser_strings_nl.xml" target="res/values-nl/multiimagechooser_strings_nl.xml"/>
+        <resource-file src="src/android/Library/res/values-no/multiimagechooser_strings_no.xml" target="res/values-no/multiimagechooser_strings_no.xml"/>
         <resource-file src="src/android/Library/res/values-pt/multiimagechooser_strings_pt.xml" target="res/values-pt/multiimagechooser_strings_pt.xml"/>
-        <resource-file src="src/android/Library/res/values-sv/multiimagechooser_strings_sv.xml" target="res/values-pt/multiimagechooser_strings_sv.xml"/>
+        <resource-file src="src/android/Library/res/values-sv/multiimagechooser_strings_sv.xml" target="res/values-sv/multiimagechooser_strings_sv.xml"/>
         <source-file src="src/android/Library/res/values-pl/multiimagechooser_strings_pl.xml" target-dir="res/values-pl"/>
 
         <framework src="src/android/ignorelinterrors.gradle" custom="true" type="gradleReference"/>
